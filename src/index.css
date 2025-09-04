@@ -18,5 +18,9 @@ code {
     monospace;
 }
 .mohit {
-  display: block;
+  display: none;
+}
+.verma {
+  position: relative;
+  font-size: 10px;
 }
