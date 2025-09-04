@@ -20,25 +20,11 @@ code {
 .mohit {
   display: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.heading-01{
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 32px;
-  letter-spacing: -0.01em;
+.verma {
+  position: relative;
+  font-size: 10px;
 }
+
+
+
+/* Custom styles can be added here */
